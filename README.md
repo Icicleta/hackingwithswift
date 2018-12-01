@@ -8,6 +8,10 @@ Each project has it's own folder so files keep organise and clean.
 
 ## Projects
 
-- [Project 1](https://github.com/Icicleta/hackingwithswift/tree/master/Project1/Project1)
+- [Project 1](https://github.com/Icicleta/hackingwithswift/tree/master/Project_01)
 
-  In this project I'll produce an application that lets users scroll through a list of images, then select one to view.
+  Produce an application that lets users scroll through a list of images, then select one to view.
+ 
+- [Project 2](https://github.com/Icicleta/hackingwithswift/tree/master/Project_02)
+
+  Make a game using UIKit, and learn about integers, buttons, colors and actions.
